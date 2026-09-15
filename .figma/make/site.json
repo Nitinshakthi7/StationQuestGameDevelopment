@@ -1,0 +1,10 @@
+{
+  "description": "Experience an immersive text-based adventure where players navigate rooms, solve puzzles, and collect items to escape before time runs out.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
